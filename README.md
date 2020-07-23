@@ -1,7 +1,8 @@
-### Hi, there! I am Hugo Honda
-- Mission-driven Developer
-- Data Scientist with strong Computer Science background
-- Full Stack developer focused on Python and Javascript
+### Hello!
+#### My name is Hugo Honda, I'm:
+  - a mission-driven developer
+  - a data scientist with strong Computer Science background
+  - a full-stack developer focused on Python and Javascript
 
 <p align='left'>
   <a href="https://hugohonda.github.io/" target="_blank">
