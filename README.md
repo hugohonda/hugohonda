@@ -1,5 +1,4 @@
-### Hello!
-#### My name is Hugo Honda, I'm:
+### Hi, there! I am Hugo Honda,
   - a mission-driven developer
   - a data scientist with strong Computer Science background
   - a full-stack developer focused on Python and Javascript
