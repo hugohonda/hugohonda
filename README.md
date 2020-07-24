@@ -1,6 +1,6 @@
 ### Hi, there! I am Hugo Honda,
   - a Mission-driven Developer and Data Scientist with strong Computer Science background
-  - a Full Stack Developer focused on Python and Javascript
+  - a Full Stack focused on Python and Javascript
 
 <p align='left'>
   <a href="https://hugohonda.github.io/" target="_blank">
