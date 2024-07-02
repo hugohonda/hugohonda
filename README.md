@@ -4,7 +4,7 @@ I'm a hands-on data professional, with background in AI, Machine Learning, Data 
 
 Passionate about using data and technology to solve complex problems, craft insights, advise leaders, and shape company strategy - result of my experience within startups and big companies.
 
-You can learn more about opportunities to collaborate, my clients or content [here](https://honda-ds.github.io/)
+You can learn more about opportunities to collaborate, my clients or content [here](https://honda-ds.github.io/).
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/hugohonda/" target="_blank">
